@@ -1,5 +1,10 @@
 # hub-mirror
 
+
+```shell
+# 参考 https://blog.csdn.net/MyySophia/article/details/123819838
+```
+
 使用 docker.io 来提供（但不限于） gcr.io、k8s.gcr.io、quay.io、ghcr.io 等国外镜像加速下载服务
 
 # 使用
